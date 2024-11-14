@@ -1,5 +1,5 @@
 # Linux-IPC-Semaphores
-# Ex05 
+# Ex - 5 
  
 # AIM :
 To Write a C program that implements a producer-consumer system with two processes using Semaphores.
